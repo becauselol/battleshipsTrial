@@ -1,0 +1,25 @@
+{
+  "name": "battleshipstrial",
+  "version": "1.0.0",
+  "description": "Learning how to use socket.io better by making a battleship game",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/becauselol/battleshipsTrial.git"
+  },
+  "author": "becauselol",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/becauselol/battleshipsTrial/issues"
+  },
+  "homepage": "https://github.com/becauselol/battleshipsTrial#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "pug": "^3.0.0",
+    "socket.io": "^2.3.0"
+  }
+}
